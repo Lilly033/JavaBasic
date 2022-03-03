@@ -12,7 +12,7 @@ public class Greetings {
 	}}
 	void sayHelloNumberOfTimes(String name,int times) {
 		for(int i=0;i<times;i++) {
-			System.out.println("hello" +name);
+			System.out.println("Hello " +name);
 		}
 	}
 	

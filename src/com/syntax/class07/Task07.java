@@ -10,7 +10,9 @@ public class Task07 {
 			System.out.print(n+" ");
 			n=n+2;
 		}
-		System.out.print("*** ");
+		System.out.println();
+	//	System.out.print("*** ");
+		
 		for(int a=20; a<=50; a=a+2) {
 			System.out.print(a+" ");
 		}

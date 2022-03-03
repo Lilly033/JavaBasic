@@ -4,7 +4,7 @@ public class PracticeMore {
 
 	public static void main(String[] args) {
 
-		int value=1;
+		int value=2;
 		for(int i=1; i<4; i++) {
 			value*=i;
 		}

@@ -7,12 +7,13 @@ public class WhileLoopDemo {
 
 		int i=2;
 		while(i<=20) {
-			System.out.println(i);
+			System.out.print(i+" ");
 			i++;
 		}
+		System.out.println();
 		System.out.println("The value of i outside of while loop = " +i);
 		int b=1;
-		while(b<=50) {
+		while(b<=10) {
 		System.out.print(b+" ");
 		b++;
 		

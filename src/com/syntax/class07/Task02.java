@@ -11,6 +11,7 @@ public class Task02 {
 	
 		a--;
 	}	
+	System.out.println();
 	//Task02
 	
 	int b=1;

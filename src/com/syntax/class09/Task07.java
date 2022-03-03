@@ -17,7 +17,7 @@ public class Task07 {
 		int sum1=0;
 		for(int n:elements) {
 		sum1+=n;
-		System.out.println(sum1);
+		System.out.print(sum1+" ");
 		}
 		
 		

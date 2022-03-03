@@ -9,8 +9,9 @@ public class Task06 {
 		System.out.print(n+" ");
 		n=n-2;
 	}
-		System.out.print("*** ");
-		
+	System.out.println();
+	//	System.out.print("*** ");
+	
 		for(int a=49; a>=20; a=a-2) {
 			System.out.print(a+" ");
 		}

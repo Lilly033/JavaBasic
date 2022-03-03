@@ -7,7 +7,7 @@ public class AnotherWayArray {
 		//I want to create an array of colors
 		
 		String[] colors= {"Blue","Pink","Yellow","Orange"};
-		System.out.println("My favorite color is "+ colors[2]);
+		System.out.println("My favorite color is "+ colors[1]);
 		
 		
 		//posible to do declaation and initilazing in 2 steps

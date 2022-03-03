@@ -10,7 +10,7 @@ public class HW {
 //Only after all requirements met → message “Your username and password has been created”
 	
 	String email(String userName,String passWord,String comfirmPassWord) {
-	if(userName.isEmpty()&& passWord.isEmpty())	{
+	if(userName.isEmpty()|| passWord.isEmpty())	{
 		System.out.println("Usename and password cannot be empty");
 	}
 	else if(passWord.length()<=8) {
