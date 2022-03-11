@@ -2,7 +2,7 @@ package com.syntax.class13;
 
 public class MethodDemo4 {
 	
-	//create amethod that takes a boolean isSaleOn double price double discount
+	//create a method that takes a boolean isSaleOn double price double discount
 	// if isSaleOn=true return discounted price other wise return original price
 	
 	double checkDiscount(boolean isSaleOn, double originalPrice, double discount) {

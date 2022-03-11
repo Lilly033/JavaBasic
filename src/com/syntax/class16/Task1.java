@@ -9,9 +9,11 @@ public class Task1 {
 //Write a program to get a new String without any spaces.
 		
 		String s="This is a sentice";
-	    System.out.println(s.replaceAll(" ", ""));
-      //  System.out.println();
-	    
+	    System.out.println(s.replace(" ", ""));
+     // System.out.println(); i can olso do it like this
+		String s1="This is a sentice";
+		String newStr=s.replace(" ", "");
+		System.out.println(newStr);
 	    
 
      //  String given="Hello Syntax friends";

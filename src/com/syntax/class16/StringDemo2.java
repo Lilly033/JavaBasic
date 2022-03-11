@@ -9,7 +9,7 @@ public class StringDemo2 {
 		String str="123456!#$#%#&ashfjjghgJFKTDTD";
 		System.out.println(str.replaceAll("[0-9]", ""));
 		System.out.println(str.replaceAll("[a-z]", ""));
-		System.out.println(str.replaceAll("[A-Z]", ""));
+		System.out.println(str.replaceAll("[A-Z]", "NEW STRING"));
 		System.out.println(str.replaceAll("[!-/]", "")); //special caracers removed
 		System.out.println(str.replaceAll("[A-z]", "")); //all capital and lower case letters
 		System.out.println(str.replaceAll("#", "0"));

@@ -28,7 +28,10 @@ public class StringVsStringBuilder {
                                 // also we can use .concat but not on the string class
 	
 	
-	
+	boolean flag=true;
+	if (flag) {
+		
+	}
 	
 	
 	
